@@ -3,7 +3,7 @@
     <br />
     <p style="font-family: Roboto; font-size: 18pt">
 
-      SIT Subject Reservation Web by test
+      SIT Subject Reservation Web by net
 
     </p>
     <br />
